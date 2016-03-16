@@ -1,5 +1,5 @@
 Arduino (Simple) Examples
 
-These are all very simple projects to get started with using Arduino. They are no more than simple (probably single) .ino files that you only need to open with the Arduino IDE and then flash into your Arduino device.
+These are all very simple projects to get started with using Arduino. They are no more than very basic (and probably single) .ino files that you only need to open with the Arduino IDE and then flash into your Arduino device.
 
 Eventually it would be nice to also add some sort of scheme/photograph of how the pieces/wires layout should look like for each example, as code is obviously not enough.
